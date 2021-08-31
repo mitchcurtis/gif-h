@@ -7,6 +7,7 @@
 #include <QDataStream>
 #include <QImage>
 #include <array>
+#include <vector>
 
 class QBuffer;
 
